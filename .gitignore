@@ -22,8 +22,10 @@
 *.uvgui.*
 *.uvguix.*
 *.tmp
+*.jlink
 **/arm/JLinkLog.txt
 **/_viminfo
 **/_vimtags
 _build/
 RTE/
+OUTPUT/
